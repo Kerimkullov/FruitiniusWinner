@@ -1,0 +1,2 @@
+rootProject.name='FruitiniusWinner'
+include ':app'

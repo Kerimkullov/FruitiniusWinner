@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037689887679",
+    "firebase_url": "https://fruitiniuswinner.firebaseio.com",
+    "project_id": "fruitiniuswinner",
+    "storage_bucket": "fruitiniuswinner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037689887679:android:3c1eeae92eb0ae8214df0a",
+        "android_client_info": {
+          "package_name": "com.example.fruitiniuswinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037689887679-870klhtt7hnlm8afokmeifumgln6q0k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitiniuswinner",
+            "certificate_hash": "5f15b8bf37e7f5c7e10e358a08a90779ca840bd6"
+          }
+        },
+        {
+          "client_id": "1037689887679-n6875jqaeveem341k8hr49skec7stior.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mDl56Qam9vHhHoCMcDmcV4URHIFKFUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037689887679-n6875jqaeveem341k8hr49skec7stior.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
